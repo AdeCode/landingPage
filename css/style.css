@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    min-height: 70px;
+    width: 100%;
+    display: flex;
+    padding: 20px 0;
+}
+
+header>img {
+    width: 40%;
+    height: inherit;
+}
+
+header>nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
